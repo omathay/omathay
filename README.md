@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I'm Owen and I'm a CS & Music major at Northeastern University. I'm looking for a co-op for the duration of Spring 2024.
-
+I'm Owen (he/him) and I'm a Computer Science & Music Technology major. I'm looking for a co-op for the duration of Spring 2024.
 
 ---
 ### About me
 
-
+I'm a third year student at Northeastern University. I transferred as a sophomore from the Rochester Institute of Technology because Northeastern aligned better with my goal of incorporating both tech and music into my career. Currently, I'm taking Object-Oriented Design (CS 3500) and Digital Audio Signal Processing (MUST 3601) to better prepare me for co-op. I'm also designing a mobile metronome app to help my sister practice music more without having to pay for accesss. 
 <!--
 **omathay/omathay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
