@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Owen and I'm a CS & Music major at Northeastern University. I'm looking for a co-op for the duration of Spring 2024.
+
+
+---
+### About me
+
+
 <!--
 **omathay/omathay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
