@@ -1,13 +1,14 @@
-### Hi there 👋
+Hello! My name is Owen Mathay (he/him/his), and I am studying Computer Science and Music Technology at Northeastern University. This GitHub profile includes my personal projects- check them out below! 
 
-I'm Owen (he/him) and I'm a Computer Science & Music Technology major. I'm looking for a co-op for the duration of Spring 2024.
+I'm looking for a co-op for Spring / Summer 2024!
 
 ---
-### About me
+- I'm taking classes in database design (SQL) and digital audio signal processing (C/C++)
+- I'm currently working on a ConChord, an app that lets you and guests vote on Spotify tracks to determine the queue
+- You can reach me by my [email](mathay.o@northeastern.edu) or on [LinkedIn](https://www.linkedin.com/in/owen-mathay/)!
 
-I'm a third year student at Northeastern University. I transferred as a sophomore from the Rochester Institute of Technology because Northeastern aligned better with my goal of incorporating both tech and music into my career. Currently, I'm taking Object-Oriented Design (CS 3500) and Digital Audio Signal Processing (MUST 3601) to better prepare me for co-op. I'm also designing a mobile metronome app to help my sister practice music more without having to pay for accesss. 
 
-When I'm not in class or programming, I like to make short films and compose original music to accompany them.
+
 <!--
 **omathay/omathay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
