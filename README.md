@@ -4,8 +4,8 @@ I'm looking for a co-op for Spring / Summer 2024!
 
 ---
 - I'm taking classes in database design (SQL) and digital audio signal processing (C/C++)
-- I'm currently working on a ConChord, an app that lets you and guests vote on Spotify tracks to determine the queue
 - You can reach me by my [email](mathay.o@northeastern.edu) or on [LinkedIn](https://www.linkedin.com/in/owen-mathay/)!
+<!-- I'm currently working on a ConChord, an app that lets you and guests vote on Spotify tracks to determine the queue -->
 
 
 
